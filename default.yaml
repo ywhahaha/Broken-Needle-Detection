@@ -1,0 +1,36 @@
+
+# LED控制
+low_light: 5 # 待机状态LED亮度
+high_light: 255 # 机针检测时LED亮度
+
+# 检测误差
+shank_length_error: 1 # 针柄长度误差范围
+shank_diameter_error: 0.1 # 针柄直径误差范围
+shaft_diameter_error: 0.07 # 针杆直径误差范围
+
+# 日志
+max_buffered_lines: 100 # 每max_buffered_lines条日志触发日志保存
+flush_interval: 7200 # 每隔lush_interval（秒）时间触发日志保存
+max_log_days: 30 # 自动清除max_log_days以前的日志
+
+# 预处理
+roi: [277,472,1270,315]
+
+# 实例分割模型
+conf: 0.4 # 阈值
+iou: 0.3 # IOU阈值
+save_results: False # 输出模型可视化结果
+show_boxes: False # 输出模型可视化结果显示框
+
+# 后处理
+save_postprocess_image: False # 输出后处理可视化结果
+width_correcting_pixels: 2.8 # 机针直径矫正（像素）
+length_correcting_pixels: 5 # 机针长度补偿 （像素）
+
+# 屏保
+inactive_timeout: 300 # 无操作超时时间(秒)
+switch_interval: 20 # 图片切换间隔(秒)
+
+# 其他
+show_details: True # 打印更详细的输出结果
+

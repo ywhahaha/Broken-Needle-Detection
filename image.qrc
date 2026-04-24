@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/adjust.ico</file>
+    <file>images/calibration.ico</file>
+    <file>images/demo.ico</file>
+    <file>images/history_data.ico</file>
+    <file>images/login.ico</file>
+    <file>images/logout.ico</file>
+    <file>images/ok.ico</file>
+    <file>images/paint.ico</file>
+    <file>images/PowerOff.ico</file>
+    <file>images/setting.ico</file>
+    <file>images/start.ico</file>
+    <file>images/start_disable.ico</file>
+    <file>images/stop.ico</file>
+    <file>images/stop_disable.ico</file>
+    <file>images/VI.ico</file>
+  </qresource>
+</RCC>

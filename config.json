@@ -1,0 +1,37 @@
+{
+    "login": {
+        "remember_username": "admin",
+        "remember_password": "123",
+        "remember_me": true,
+        "username": "admin",
+        "password": "123"
+    },
+    "camera": {
+        "normal_exposure_value": 0,
+        "detect_exposure_value": -10,
+        "calibration": 1
+    },
+    "repertory": [
+        {
+            "model": "DBx1--11#",
+            "quantity": 50,
+            "bin_num": "1",
+            "needle_total_length": 37.48,
+            "needle_handle_length": 15.13,
+            "needle_handle_diameter": 1.57,
+            "needle_middle_diameter": 0.8
+        },
+        {
+            "model": "DBx1--9#",
+            "quantity": 32,
+            "bin_num": "2",
+            "needle_total_length": 36.9,
+            "needle_handle_length": 16.1,
+            "needle_handle_diameter": 1.58,
+            "needle_middle_diameter": 0.72
+        }
+    ],
+    "setting": {
+        "completeness_threshold": 0.9
+    }
+}

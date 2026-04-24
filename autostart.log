@@ -1,0 +1,40 @@
+/home/admin
+配置文件 /home/admin/default.yaml 不存在，使用默认配置
+Traceback (most recent call last):
+  File "/home/admin/NeedleManagement/main.py", line 356, in <module>
+    main_window = MainWindow()  # PEP8命名
+  File "/home/admin/NeedleManagement/main.py", line 31, in __init__
+    self.redirect_output()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/admin/NeedleManagement/main.py", line 313, in redirect_output
+    max_buffered_lines=self.config.max_buffered_lines, #条
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/admin/NeedleManagement/function/read_config.py", line 31, in __getattr__
+    raise AttributeError(f"配置项 '{name}' 不存在")
+AttributeError: 配置项 'max_buffered_lines' 不存在
+当前工作目录已切换到：/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+系统初始化完成
+准备就绪...
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+系统初始化完成
+准备就绪...
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+/home/admin/NeedleManagement
+系统初始化完成
+准备就绪...

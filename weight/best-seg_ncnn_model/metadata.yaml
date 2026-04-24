@@ -1,0 +1,20 @@
+description: Ultralytics YOLO11n-seg model trained on ultralytics/cfg/datasets/needle.yaml
+author: Ultralytics
+date: '2025-11-26T16:14:18.508410'
+version: 8.3.229
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: segment
+batch: 1
+imgsz:
+- 320
+- 1280
+names:
+  0: bing
+  1: gan
+  2: needle
+args:
+  batch: 1
+  half: true
+channels: 3

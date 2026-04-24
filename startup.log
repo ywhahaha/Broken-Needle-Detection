@@ -1,0 +1,10 @@
+Creating new Ultralytics Settings v0.0.6 file ✅ 
+View Ultralytics Settings with 'yolo settings' or at '/root/.config/Ultralytics/settings.json'
+Update Settings with 'yolo settings key=value', i.e. 'yolo settings runs_dir=path/to/dir'. For help see https://docs.ultralytics.com/quickstart/#ultralytics-settings.
+qt.qpa.xcb: could not connect to display 
+qt.qpa.xcb: could not connect to display 
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: eglfs (from /usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/), linuxfb (from /usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/), minimal (from /usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/), minimalegl (from /usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/), offscreen (from /usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/), vnc (from /usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/), wayland-egl (from /usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/), wayland (from /usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/), wayland-xcomposite-egl (from /usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/), wayland-xcomposite-glx (from /usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/), xcb (from /usr/lib/aarch64-linux-gnu/qt5/plugins/platforms/), eglfs, linuxfb, minimal, minimalegl, offscreen, vnc, wayland-egl, wayland, wayland-xcomposite-egl, wayland-xcomposite-glx, xcb.
+
