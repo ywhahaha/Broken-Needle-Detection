@@ -6,8 +6,7 @@
 
 系统采用 PyQt5 构建全屏触控式交互界面，集成了相机实时预览、断针检测、库存管理、系统设置、日志查看、屏保、断线重连等功能，适合部署在树莓派设备上。
 
-[![演示视频](https://github.com/user-attachments/assets/cfa4ae42-123d-41a7-84b0-423010bd3841)](https://www.bilibili.com/video/BV1tro9BVE9o?t=11.3)
-**点击上方图片查看演示视频**
+https://github.com/user-attachments/assets/b8d63560-f8a8-4c2b-b395-b569cb8a63d4
 
 ## 2. 项目目标
 
